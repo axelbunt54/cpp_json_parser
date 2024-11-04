@@ -11,7 +11,7 @@ Developed basic JSON parser in C++ that supports trivial expressions with JSON p
 Clone repository:
 
 ```
-git clone ...
+git clone https://github.com/axelbunt/cpp_json_parser.git
 ```
 
 Compile files:
