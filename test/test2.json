@@ -1,0 +1,29 @@
+{
+"data": [
+{
+"_id": "6729f1447e0f0ac1b2f512da",
+"tags": [
+"sit",
+"ipsum",
+"magna",
+"qui",
+"do",
+"do",
+"nostrud"
+],
+"index": 0,
+"location": {
+"longitude": 10.6332,
+"latitude": -58.088
+},
+"personal_data": {
+"email": "ruizdecker@exozent.com",
+"company": "EXOZENT",
+"name": "Ruiz Decker",
+"eyeColor": "brown",
+"age": 20
+},
+"grades": [1, 2, 3, 4, 5, 0]
+}
+]
+}

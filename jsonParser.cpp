@@ -141,7 +141,7 @@ namespace json {
             }
 
             auto c = raw_json[index];
-            if (!(c >= '0' && c <= '9') && !(c == '.')) {
+            if (!(c >= '0' && c <= '9') && !(c == '.') && !(c == '-')) {
                 break;
             }
 

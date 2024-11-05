@@ -1,0 +1,1 @@
+test/test2.json data.[0].location.latitude
