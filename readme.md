@@ -23,7 +23,7 @@ g++ main.cpp jsonParser.cpp -o json_eval
 Run built app:
 
 ```
-# test,json: {"a": { "b": [ 1, 2, { "c": "test" }, [11, 12] ]}}
+# test.json: {"a": { "b": [ 1, 2, { "c": "test" }, [11, 12] ]}}
 ./json_eval "test/test.json" "a.b[1]"
 # 2
 ```
